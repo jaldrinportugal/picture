@@ -17,6 +17,7 @@ use App\Http\Controllers\patient\PatientPaymentInfoController;
 use App\Http\Controllers\patient\PatientMessagesController;
 use App\Http\Controllers\patient\PatientCommunityForumController;
 
+
 use Illuminate\Support\Facades\Route;
 
 /*
